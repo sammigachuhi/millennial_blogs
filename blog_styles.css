@@ -7,3 +7,7 @@ h2 {
     color: maroon;
     margin-left: 40px;
 }
+
+blockquote {
+    font-style: italic;
+}
