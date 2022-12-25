@@ -4,8 +4,9 @@ body {
     color: aliceblue;
 }
 h2 {
-    color: maroon;
+    color:aliceblue;
     margin-left: 40px;
+    font-weight: bold;
 }
 
 blockquote {
