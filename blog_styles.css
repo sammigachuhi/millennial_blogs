@@ -19,3 +19,33 @@ blockquote {
     margin-right: auto;
     width: 50%;
   }
+
+aside.right {
+    float: right;
+    right: 10px;
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    color: #29627e;
+    display: table-cell;
+  }
+
+  aside.left {
+    float: left;
+    width: 100px;
+    left: 10px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    color: #29627e;
+    display: table-cell;
+}
+
+aside > span {
+    font-size: larger;
+    font-style: italic;
+    color:slateblue;
+}
